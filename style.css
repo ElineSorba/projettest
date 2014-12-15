@@ -1,62 +1,123 @@
-*{
-    margin:0px auto;
-    padding:0px auto;
-    -webkit-box-sizing:border-box;
-    -moz-box-sizing:border-box;
-    box-sizing:border-box;
-}
 header {
     background-color:#71d2bf;
     width:800px;
-    height:50px;
+    height:25px;
     border-radius:5px;
     margin:20px;
     padding:10px;
     margin-left: auto;
-  margin-right: auto;
+    margin-right: auto;
+    text-align:center;
+  }
 
+p  {
+    margin-left: auto;
+    margin-right: auto;
+    position:absolute;
+    text-align:center;
+    text-decoration:none;
+    
 }
 
-ul {
- background-color:#0d7f69;
-    width:150px;
-    height:40px;
+a{
+    text-decoration:none;
+    font-family: 'Comfortaa', cursive;
+    color:white;
+}
+
+.header {
+    background-color:#5abdaa;
+    text-decoration:none;
+	list-style-type: none;
+	padding-top:1px;
+    padding-bottom:1px;
+    padding-right: auto;
+	margin-top:1px;
+    margin-bottom: 1px;
+	position: relative;
+    width:100px;
+    height:25px;
+    margin-left: auto;
+    margin-right:auto;
+    text-align:center;
     border-radius:5px;
-    margin:1px;
-    padding:5px;
-    margin-left:100px;
-    margin-right:760px;
-    margin-bottom:5px;
- }
-
-
+    display:inline-block;
+    
+}
 main {
     background-color:#5abdaa;
     width:800px;
     height:500px;
-    border-radius: 10px;
-    margin:0px;
-    padding:50px;
-    padding-top:20px;
-    padding-left:400px;
-    padding-right:400px;
+    border-radius: 5px;
+    margin:20px;
+    padding:10px;
     margin-left:auto;
     margin-right:auto;
 }
+
 footer {
      background-color:#71d2bf;
     width:800px;
-    height:50px;
+    height:25px;
     border-radius:5px;
     margin:20px;
     padding:10px;
     margin-left: auto;
-  margin-right: auto;
+    margin-right: auto;
+}
+
+h1 {
+     text-decoration:none;
+    font-family: 'Comfortaa', cursive;
+    text-align:center;
+    padding:2.5px;
+    margin:2px;
+    font-size:18px;
+    font-style:normal;
+    color:white;
+}
+
+img {
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    padding:10px;
+}
+ p {
+    font-family: 'Comfortaa', cursive;
+    text-align:center;
+    padding:20px;
+    margin-left:auto;
+    margin-right:auto;
+    font-size:15px;
+    font-style:normal;
+    color:white;
+ }
+
+ul li {
+    font-family: 'Comfortaa', cursive;
+    text-align:center;
+    padding:0.02px;
+    margin-left:auto;
+    margin-right:auto;
+    font-size:8px;
+    font-style:normal;
+    color:white;
+    list-style-type: none;
+
+}
+
+h2 {
+     text-decoration:none;
+    font-family: 'Comfortaa', cursive;
+    text-align:center;
+    padding:20px;
+    font-size:15px;
+    font-style:normal;
+    color:white;
 }
     
-
-
-
-
+    
+    
 
 
