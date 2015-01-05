@@ -1,19 +1,32 @@
-header {
-    background-color:#71d2bf;
+header{
+    background-color:#5abdaa;
     width:800px;
-    height:25px;
+    height:40px;
     border-radius:5px;
-    margin:20px;
-    padding:10px;
-    margin-left: auto;
-    margin-right: auto;
     text-align:center;
-  }
+     margin-left:auto;
+    margin-right:auto;
+    
+  
 
+}
+
+#bouton {
+    background-color:#71d2bf;
+    width:200px;
+    color:white;
+    padding:center;
+    font-size:8px;
+    font-family: 'Comfortaa', cursive;
+    border-radius:5px;
+    text-align:center;
+    list-style:none;
+    float:left;
+    margin-left:50px;
+    margin-top:5px;
+  }
 p  {
-    margin-left: auto;
-    margin-right: auto;
-    position:absolute;
+    
     text-align:center;
     text-decoration:none;
     
@@ -25,25 +38,6 @@ a{
     color:white;
 }
 
-.header {
-    background-color:#5abdaa;
-    text-decoration:none;
-	list-style-type: none;
-	padding-top:1px;
-    padding-bottom:1px;
-    padding-right: auto;
-	margin-top:1px;
-    margin-bottom: 1px;
-	position: relative;
-    width:100px;
-    height:25px;
-    margin-left: auto;
-    margin-right:auto;
-    text-align:center;
-    border-radius:5px;
-    display:inline-block;
-    
-}
 main {
     background-color:#5abdaa;
     width:800px;
@@ -94,18 +88,6 @@ img {
     color:white;
  }
 
-ul li {
-    font-family: 'Comfortaa', cursive;
-    text-align:center;
-    padding:0.02px;
-    margin-left:auto;
-    margin-right:auto;
-    font-size:8px;
-    font-style:normal;
-    color:white;
-    list-style-type: none;
-
-}
 
 h2 {
      text-decoration:none;
@@ -122,7 +104,10 @@ h2 {
     color:white;
 }
     
-    
+.table {
+    margin-left:auto;
+    margin-right:auto;
+}
     
 
 
